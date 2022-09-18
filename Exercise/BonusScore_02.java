@@ -1,8 +1,6 @@
 package ConditionalStatements.Exercise;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
-
 public class BonusScore_02 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

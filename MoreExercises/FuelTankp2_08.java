@@ -15,7 +15,7 @@ public class FuelTankp2_08 {
 
         String typeFuel = scanner.nextLine();
         double qntyFuel = Double.parseDouble(scanner.nextLine());
-        String clubCard = scanner.nextLine();;
+        String clubCard = scanner.nextLine();
 
         double finalPrice = 0.0;
 
